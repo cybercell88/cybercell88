@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cybercell88 aka Bishal
 - 👀 I love automation and looking forward to learning more about it.
-- 🌱 I use bash scripts and Python to automate.
+- 🌱 I use bash, PowerShell, and Python to automate.
 - 📫 You can reach me at beshal8812@gmail.com
 
 - 🧾 Certifications I have Accomplished
